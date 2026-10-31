@@ -1,0 +1,98 @@
+{
+  "code": "MUNGYEONG",
+  "title": "SMASH MUNGYEONG",
+  "school": "문경대",
+  "fullName": "문경대학교",
+  "campusName": "문경대학교",
+  "tagline": "문경대를 부셔 (시험기간 스트레스 해소)",
+  "description": "문경대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 문경대학교 3D 화면과 SMASH MUNGYEONG 제목",
+  "url": "https://hong-iron.github.io/SMASH-MUNGYEONG/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 1349510202
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        36.6589722,
+        128.1731453
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 학교 북쪽 마을길 옆 집터(별암리 45-2 대)에 2021년 사용승인을 받은 단독주택이다."
+    },
+    {
+      "at": [
+        36.6590061,
+        128.1729859
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 학교 북쪽 마을길 옆 집터(별암리 45-7 대)에 2025년 사용승인을 받은 단독주택이다."
+    },
+    {
+      "at": [
+        36.6584145,
+        128.1717773
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 제1강의동 북쪽 숲 한가운데라 사진에 나무만 보이고 지붕이 없다."
+    },
+    {
+      "at": [
+        36.6590236,
+        128.1734379
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 학교 북쪽 마을길 옆 집터(별암리 45-1 대)에 2021년 사용승인을 받은 단독주택이다."
+    },
+    {
+      "at": [
+        36.6575672,
+        128.1741777
+      ],
+      "n": "경비실",
+      "why": "항공사진에 없음 — 대장에는 경비실로 남아 있지만 그 자리 사진에는 나무와 덤불만 있다."
+    },
+    {
+      "at": [
+        36.6590404,
+        128.1726398
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 학교 북쪽 마을길 옆 집터(별암리 45-5 대)에 2022년 사용승인을 받은 단독주택이다."
+    },
+    {
+      "at": [
+        36.6587583,
+        128.1740815
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 마을길 가장자리 도랑 땅(별암리 730 구거)에 놓인 작은 창고라서 학교 부지가 아니다."
+    },
+    {
+      "at": [
+        36.6587804,
+        128.1737879
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 마을길 아래 텃밭과 풀밭 자리라 사진에 건물이 없다."
+    },
+    {
+      "at": [
+        36.6588327,
+        128.1723656
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 마을길 아래 풀밭과 오솔길 자리라 사진에 건물이 없다."
+    }
+  ]
+}
