@@ -1,0 +1,34 @@
+{
+ "region": "경북 문경시 별암리",
+ "nameEn": "Mungyeong College",
+ "added": "2026-11-01T02:27",
+ "rank": 252,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "GKNU-YECHEON",
+   "campus": "국립경국대학교 예천캠퍼스",
+   "km": 25.2
+  },
+  {
+   "code": "KNU-SANGJU",
+   "campus": "경북대학교 상주캠퍼스",
+   "km": 31.3
+  },
+  {
+   "code": "JUNGWON",
+   "campus": "중원대학교",
+   "km": 37.9
+  },
+  {
+   "code": "KONKUK-GLOCAL",
+   "campus": "건국대학교 글로컬캠퍼스",
+   "km": 40.2
+  },
+  {
+   "code": "DONGYANG",
+   "campus": "동양대학교",
+   "km": 40.7
+  }
+ ]
+}
